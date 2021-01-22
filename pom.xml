@@ -80,16 +80,16 @@ under the License.
                 <scalatest.version>3.0.1</scalatest.version>
                 <scalamock.version>4.1.0</scalamock.version>
                 <gimel.version>2.0.0</gimel.version>
-                <scala.version>2.11.8</scala.version>
+                <scala.version>2.11.12</scala.version>
                 <spark.binary.version>2.3</spark.binary.version>
                 <spark.version>2.3.0</spark.version>
-                <hadoop.version>2.7.3</hadoop.version>
-                <hive.version>1.2.1</hive.version>
+                <hadoop.version>3.1.3</hadoop.version>
+                <hive.version>3.0.0</hive.version>
                 <hbase.version>1.1.2</hbase.version>
                 <java.version>1.8</java.version>
                 <gimel.version>2.0.0</gimel.version>
                 <hadoop.aws.version>2.8.0</hadoop.aws.version>
-                <packaging.tag />
+                <packaging.tag/>
             </properties>
         </profile>
         <profile>
@@ -108,16 +108,16 @@ under the License.
                 <hadoop.packaging.scope>provided</hadoop.packaging.scope>
                 <gimel.version>2.0.0</gimel.version>
                 <scala.binary.version>2.11</scala.binary.version>
-                <scala.version>2.11.8</scala.version>
+                <scala.version>2.11.12</scala.version>
                 <scalatest.version>3.0.1</scalatest.version>
                 <spark.binary.version>2.3</spark.binary.version>
                 <spark.version>2.3.0.2.6.3.11-1</spark.version>
-                <hadoop.version>2.7.3.2.6.3.11-1</hadoop.version>
-                <hive.version>1.2.1000.2.6.3.11-1</hive.version>
+                <hadoop.version>3.1.3</hadoop.version>
+                <hive.version>3.0.0</hive.version>
                 <hbase.version>1.1.2.2.6.3.11-1</hbase.version>
                 <zookeeper.version>3.4.6.2.6.3.12-2</zookeeper.version>
                 <hadoop.aws.version>2.8.0</hadoop.aws.version>
-                <packaging.tag />
+                <packaging.tag/>
             </properties>
         </profile>
         <profile>
@@ -136,18 +136,18 @@ under the License.
                 <hadoop.packaging.scope>provided</hadoop.packaging.scope>
                 <gimel.version>2.0.0</gimel.version>
                 <scala.binary.version>2.11</scala.binary.version>
-                <scala.version>2.11.8</scala.version>
+                <scala.version>2.11.12</scala.version>
                 <scalatest.version>3.0.1</scalatest.version>
                 <scalatest.version>3.0.1</scalatest.version>
                 <scalamock.version>4.1.0</scalamock.version>
                 <spark.binary.version>2.3</spark.binary.version>
                 <spark.version>2.3.0.2.6.3.5-4</spark.version>
-                <hadoop.version>2.7.3.2.6.3.5-4</hadoop.version>
-                <hive.version>1.2.1000.2.6.3.5-4</hive.version>
+                <hadoop.version>3.1.3</hadoop.version>
+                <hive.version>3.0.0</hive.version>
                 <hbase.version>1.1.2.2.6.3.5-4</hbase.version>
                 <zookeeper.version>3.4.6.2.6.3.5-4</zookeeper.version>
                 <hadoop.aws.version>2.8.0</hadoop.aws.version>
-                <packaging.tag />
+                <packaging.tag/>
             </properties>
         </profile>
         <profile>
@@ -163,14 +163,14 @@ under the License.
                 <spark.packaging.scope>compile</spark.packaging.scope>
                 <hive.packaging.scope>provided</hive.packaging.scope>
                 <hadoop.packaging.scope>provided</hadoop.packaging.scope>
-                <scala.version>2.11.8</scala.version>
+                <scala.version>2.11.12</scala.version>
                 <scala.binary.version>2.11</scala.binary.version>
                 <scalamock.version>4.1.0</scalamock.version>
                 <spark.binary.version>2.3</spark.binary.version>
                 <scaas.logger.spark.binary.version>2.3</scaas.logger.spark.binary.version>
                 <spark.version>2.3.0.2.6.5.0-292</spark.version>
-                <hadoop.version>2.7.3.2.6.5.0-292</hadoop.version>
-                <hive.version>1.2.1000.2.6.5.0-292</hive.version>
+                <hadoop.version>3.1.3</hadoop.version>
+                <hive.version>3.0.0</hive.version>
                 <hbase.version>1.1.2.2.6.5.0-292</hbase.version>
                 <zookeeper.version>3.4.13.2.6.5.0-292</zookeeper.version>
                 <hwx.version>hwx-2.6.5.0-292_s-${spark.binary.version}</hwx.version>
@@ -195,7 +195,7 @@ under the License.
                 <hadoop.packaging.scope>compile</hadoop.packaging.scope>
                 <hive.packaging.scope>compile</hive.packaging.scope>
                 <zookeeper.version>3.4.6</zookeeper.version>
-                <packaging.tag />
+                <packaging.tag/>
             </properties>
         </profile>
     </profiles>

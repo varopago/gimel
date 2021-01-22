@@ -43,7 +43,7 @@
         <jackson.databind.version>2.10.0.pr1</jackson.databind.version>
         <protobuf.version>2.5.0</protobuf.version>
         <protobuf.javaformatter.version>1.4</protobuf.javaformatter.version>
-        <kafka.version>0.10.2.0</kafka.version>
+        <kafka.version>0.10.2.2</kafka.version>
         <mockito.version>1.10.19</mockito.version>
         <powermock.version>1.6.2</powermock.version>
         <junit.version>4.11</junit.version>
