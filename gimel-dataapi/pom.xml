@@ -86,7 +86,7 @@ under the License.
         <!-- These are added because of conflict in hbase-testing-utility-->
         <netty.hadoop.version>3.9.9.Final</netty.hadoop.version>
         <netty.all.hadoop.version>4.1.17.Final</netty.all.hadoop.version>
-        <aws.java.sdk.version>1.10.6</aws.java.sdk.version>
+        <aws.java.sdk.version>1.11.955</aws.java.sdk.version>
     </properties>
     
     <build>
